@@ -9,5 +9,3 @@ lblHello = tkinter.label(window, text="Hello World")
 lblHello.pack()
 
 window.mainloop()
-
-# Frames
